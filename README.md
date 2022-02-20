@@ -1,1 +1,1 @@
-# Likelihood based approach to estimate backgroung induced by jet -> gamma missidentification
+# Likelihood based approach to estimate background induced by jet -> gamma missidentification
